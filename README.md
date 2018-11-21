@@ -1,6 +1,6 @@
-# KeyBrowser
-#### キーボードによる快適な操作を"目指した"ブラウザ
-!["screenshot"](https://gyazo.com/887b5216302d6109d93b6ba6caaa0ba5.png)
+# Future Oriented Browser
+#### 過去を振り返らないブラウザ
+!["screenshot"](https://i.gyazo.com/63307d9526a9cc7244d5bbf871e14d80.gif)
 
 
 ## 開発環境
