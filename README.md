@@ -1,10 +1,8 @@
 # KeyBrowser
-
 #### キーボードによる快適な操作を"目指した"ブラウザ
-
 !["screenshot"](https://gyazo.com/887b5216302d6109d93b6ba6caaa0ba5.png)
 
-<br />
+
 ## 開発環境
 * Electron
 * React
@@ -12,7 +10,7 @@
 * FuseBox
 * (TypeScript)
 
-<br />
+
 ## 実行方法
 1 パッケージのインストール
 
@@ -32,7 +30,6 @@ make dev # production -> make prod
 make start
 ```
 
-<br />
-## 使い方
 
+## 使い方
 - ⌘K → 検索
